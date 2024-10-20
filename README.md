@@ -3,7 +3,7 @@
 
 Today! You're going to learn everything you need to become a **Model-View-ViewModel** ninja. 🥷🏽
 
-The first thing to know is: You can adapt this architecture model according to your needs, BUT MVVM has a simple approach. Once you grasp it, you'll be ready to build amazing apps using this architecture pattern.
+The first thing to know is: You can adapt this architecture model according to your needs, BUT MVVM has a simple approach. Once you grasp it, you'll be ready to build amazing apps using this architectural pattern.
 
 # Overview
 
